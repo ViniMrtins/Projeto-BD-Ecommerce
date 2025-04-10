@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">idProduto</Data></Cell>
+			<Cell><Data ss:Type="String">Nome_Produto</Data></Cell>
+			<Cell><Data ss:Type="String">Fornecedor</Data></Cell>
+			<Cell><Data ss:Type="String">Quantidade_Fornecida</Data></Cell>
+			<Cell><Data ss:Type="String">Local_Estoque</Data></Cell>
+			<Cell><Data ss:Type="String">Quantidade_Estoque</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Camiseta Estampada Street</Data></Cell>
+			<Cell><Data ss:Type="String">Comercial Brasil Importações LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">120</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico SP - Setor A1</Data></Cell>
+			<Cell><Data ss:Type="String">150</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Camiseta Estampada Street</Data></Cell>
+			<Cell><Data ss:Type="String">Indústria Tech Solutions SA</Data></Cell>
+			<Cell><Data ss:Type="String">80</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico SP - Setor A1</Data></Cell>
+			<Cell><Data ss:Type="String">150</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Notebook Slim 14"</Data></Cell>
+			<Cell><Data ss:Type="String">Distribuidora Mega Atacado EIRELI</Data></Cell>
+			<Cell><Data ss:Type="String">90</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico RJ - Setor B3</Data></Cell>
+			<Cell><Data ss:Type="String">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Tênis Esportivo MaxRun</Data></Cell>
+			<Cell><Data ss:Type="String">Comercial Brasil Importações LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">50</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico MG - Setor C2</Data></Cell>
+			<Cell><Data ss:Type="String">45</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Tênis Esportivo MaxRun</Data></Cell>
+			<Cell><Data ss:Type="String">Comércio de Roupas Veste Bem ME</Data></Cell>
+			<Cell><Data ss:Type="String">30</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico MG - Setor C2</Data></Cell>
+			<Cell><Data ss:Type="String">45</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">Fone Bluetooth Wave Pro</Data></Cell>
+			<Cell><Data ss:Type="String">Fornecedora Alimentos Naturais LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">100</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico SP - Setor A2</Data></Cell>
+			<Cell><Data ss:Type="String">120</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Calça Jeans Skinny</Data></Cell>
+			<Cell><Data ss:Type="String">Tech Distribuição e Logística LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">75</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico PR - Setor D1</Data></Cell>
+			<Cell><Data ss:Type="String">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Smartphone MaxOne X5</Data></Cell>
+			<Cell><Data ss:Type="String">Distribuidora Mega Atacado EIRELI</Data></Cell>
+			<Cell><Data ss:Type="String">40</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico RS - Setor E5</Data></Cell>
+			<Cell><Data ss:Type="String">30</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Smartphone MaxOne X5</Data></Cell>
+			<Cell><Data ss:Type="String">Global Office Supplies EIRELI</Data></Cell>
+			<Cell><Data ss:Type="String">35</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico RS - Setor E5</Data></Cell>
+			<Cell><Data ss:Type="String">30</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Moletom Canguru Urban</Data></Cell>
+			<Cell><Data ss:Type="String">Indústria Tech Solutions SA</Data></Cell>
+			<Cell><Data ss:Type="String">200</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico SP - Setor A3</Data></Cell>
+			<Cell><Data ss:Type="String">200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Cafeteira Elétrica Aroma Plus</Data></Cell>
+			<Cell><Data ss:Type="String">Construtora Padrão Forte SA</Data></Cell>
+			<Cell><Data ss:Type="String">60</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico BA - Setor F1</Data></Cell>
+			<Cell><Data ss:Type="String">60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">Livro "O Código da Mente"</Data></Cell>
+			<Cell><Data ss:Type="String">Fashion Imports Comércio Varejista ME</Data></Cell>
+			<Cell><Data ss:Type="String">50</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico CE - Setor G4</Data></Cell>
+			<Cell><Data ss:Type="String">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Bota Couro Adventure</Data></Cell>
+			<Cell><Data ss:Type="String">PetroLimp Fornecimentos Industriais LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">80</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico SC - Setor H2</Data></Cell>
+			<Cell><Data ss:Type="String">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">Relógio Digital TechTime</Data></Cell>
+			<Cell><Data ss:Type="String">Comercial Brasil Importações LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">110</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico SP - Setor A4</Data></Cell>
+			<Cell><Data ss:Type="String">110</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">Headset Gamer FireStorm</Data></Cell>
+			<Cell><Data ss:Type="String">Distribuidora Mega Atacado EIRELI</Data></Cell>
+			<Cell><Data ss:Type="String">45</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico RJ - Setor B2</Data></Cell>
+			<Cell><Data ss:Type="String">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">Headset Gamer FireStorm</Data></Cell>
+			<Cell><Data ss:Type="String">Indústria Tech Solutions SA</Data></Cell>
+			<Cell><Data ss:Type="String">50</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico RJ - Setor B2</Data></Cell>
+			<Cell><Data ss:Type="String">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Jaqueta Corta-Vento</Data></Cell>
+			<Cell><Data ss:Type="String">Comércio de Roupas Veste Bem ME</Data></Cell>
+			<Cell><Data ss:Type="String">130</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico MG - Setor C1</Data></Cell>
+			<Cell><Data ss:Type="String">130</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">Tênis Casual FlexStyle</Data></Cell>
+			<Cell><Data ss:Type="String">Fornecedora Alimentos Naturais LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">160</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico SP - Setor A5</Data></Cell>
+			<Cell><Data ss:Type="String">160</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Tablet Connect 10"</Data></Cell>
+			<Cell><Data ss:Type="String">Global Office Supplies EIRELI</Data></Cell>
+			<Cell><Data ss:Type="String">25</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico PR - Setor D3</Data></Cell>
+			<Cell><Data ss:Type="String">75</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Tablet Connect 10"</Data></Cell>
+			<Cell><Data ss:Type="String">Tech Distribuição e Logística LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">50</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico PR - Setor D3</Data></Cell>
+			<Cell><Data ss:Type="String">75</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Chinelo Slide Confort</Data></Cell>
+			<Cell><Data ss:Type="String">Construtora Padrão Forte SA</Data></Cell>
+			<Cell><Data ss:Type="String">85</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico RS - Setor E1</Data></Cell>
+			<Cell><Data ss:Type="String">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">Ventilador Turbo VentoMax</Data></Cell>
+			<Cell><Data ss:Type="String">Fashion Imports Comércio Varejista ME</Data></Cell>
+			<Cell><Data ss:Type="String">60</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico BA - Setor F2</Data></Cell>
+			<Cell><Data ss:Type="String">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">Ventilador Turbo VentoMax</Data></Cell>
+			<Cell><Data ss:Type="String">PetroLimp Fornecimentos Industriais LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">40</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico BA - Setor F2</Data></Cell>
+			<Cell><Data ss:Type="String">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">Livro "Segredos da Alta Performance"</Data></Cell>
+			<Cell><Data ss:Type="String">Comercial Brasil Importações LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">40</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico CE - Setor G3</Data></Cell>
+			<Cell><Data ss:Type="String">40</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">Camisa Polo Clássica</Data></Cell>
+			<Cell><Data ss:Type="String">Distribuidora Mega Atacado EIRELI</Data></Cell>
+			<Cell><Data ss:Type="String">55</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico SC - Setor H1</Data></Cell>
+			<Cell><Data ss:Type="String">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Sandália Feminina Comfort</Data></Cell>
+			<Cell><Data ss:Type="String">Indústria Tech Solutions SA</Data></Cell>
+			<Cell><Data ss:Type="String">140</Data></Cell>
+			<Cell><Data ss:Type="String">Centro Logístico SP - Setor A6</Data></Cell>
+			<Cell><Data ss:Type="String">140</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

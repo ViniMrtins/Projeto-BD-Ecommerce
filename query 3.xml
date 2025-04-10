@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Nome_Fornecedor</Data></Cell>
+			<Cell><Data ss:Type="String">Nome_Produto</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Comercial Brasil Importações LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">Camiseta Estampada Street</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Comercial Brasil Importações LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">Livro "Segredos da Alta Performance"</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Comercial Brasil Importações LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">Relógio Digital TechTime</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Comercial Brasil Importações LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">Tênis Esportivo MaxRun</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Comércio de Roupas Veste Bem ME</Data></Cell>
+			<Cell><Data ss:Type="String">Jaqueta Corta-Vento</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Comércio de Roupas Veste Bem ME</Data></Cell>
+			<Cell><Data ss:Type="String">Tênis Esportivo MaxRun</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Construtora Padrão Forte SA</Data></Cell>
+			<Cell><Data ss:Type="String">Cafeteira Elétrica Aroma Plus</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Construtora Padrão Forte SA</Data></Cell>
+			<Cell><Data ss:Type="String">Chinelo Slide Confort</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Distribuidora Mega Atacado EIRELI</Data></Cell>
+			<Cell><Data ss:Type="String">Camisa Polo Clássica</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Distribuidora Mega Atacado EIRELI</Data></Cell>
+			<Cell><Data ss:Type="String">Headset Gamer FireStorm</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Distribuidora Mega Atacado EIRELI</Data></Cell>
+			<Cell><Data ss:Type="String">Notebook Slim 14"</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Distribuidora Mega Atacado EIRELI</Data></Cell>
+			<Cell><Data ss:Type="String">Smartphone MaxOne X5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Fashion Imports Comércio Varejista ME</Data></Cell>
+			<Cell><Data ss:Type="String">Livro "O Código da Mente"</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Fashion Imports Comércio Varejista ME</Data></Cell>
+			<Cell><Data ss:Type="String">Ventilador Turbo VentoMax</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Fornecedora Alimentos Naturais LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">Fone Bluetooth Wave Pro</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Fornecedora Alimentos Naturais LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">Tênis Casual FlexStyle</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Global Office Supplies EIRELI</Data></Cell>
+			<Cell><Data ss:Type="String">Smartphone MaxOne X5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Global Office Supplies EIRELI</Data></Cell>
+			<Cell><Data ss:Type="String">Tablet Connect 10"</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Indústria Tech Solutions SA</Data></Cell>
+			<Cell><Data ss:Type="String">Camiseta Estampada Street</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Indústria Tech Solutions SA</Data></Cell>
+			<Cell><Data ss:Type="String">Headset Gamer FireStorm</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Indústria Tech Solutions SA</Data></Cell>
+			<Cell><Data ss:Type="String">Moletom Canguru Urban</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Indústria Tech Solutions SA</Data></Cell>
+			<Cell><Data ss:Type="String">Sandália Feminina Comfort</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PetroLimp Fornecimentos Industriais LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">Bota Couro Adventure</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PetroLimp Fornecimentos Industriais LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">Ventilador Turbo VentoMax</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tech Distribuição e Logística LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">Calça Jeans Skinny</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tech Distribuição e Logística LTDA</Data></Cell>
+			<Cell><Data ss:Type="String">Tablet Connect 10"</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
